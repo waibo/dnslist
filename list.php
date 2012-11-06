@@ -1,3 +1,4 @@
+address=/trailers.apple.com/210.129.145.150
 server=/115.com/202.99.96.68
 server=/126.com/202.99.96.68
 server=/126.net/202.99.96.68
