@@ -91,3 +91,4 @@ server=/meilishuo.com/202.99.96.68
 server=/360buy.com/202.99.96.68
 server=/mogujie.com/202.99.96.68
 server=/csdn.net/202.99.96.68
+server=/pcinlife.com/202.99.96.68
