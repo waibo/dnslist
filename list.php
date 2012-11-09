@@ -1,4 +1,14 @@
 address=/trailers.apple.com/210.129.145.150
+address=/pma.joome.net/118.244.235.15
+address=/admin.as.joome.net/118.244.232.116
+address=/admin.joome.info/192.168.15.138
+address=/v2.joome.info/192.168.15.138
+address=/v1.joome.info/192.168.15.138
+address=/pma.joome.info/192.168.15.138
+address=/as.joome.info/192.168.15.138
+address=/r.joome.info/192.168.15.138
+address=/apis.joome.net/192.168.15.138
+address=/static.joome.info/192.168.15.138
 server=/115.com/202.99.96.68
 server=/126.com/202.99.96.68
 server=/126.net/202.99.96.68
