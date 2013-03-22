@@ -95,3 +95,4 @@ server=/csdn.net/114.114.114.114
 server=/pcinlife.com/114.114.114.114
 server=/doubleclick.net/114.114.114.114
 server=/bbstvro.com/114.114.114.114
+server=/btcchina.com/114.114.114.114
