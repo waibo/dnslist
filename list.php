@@ -97,3 +97,4 @@ server=/doubleclick.net/114.114.114.114
 server=/bbstvro.com/114.114.114.114
 server=/btcchina.com/114.114.114.114
 server=/hao123.com/114.114.114.114
+server=/cmbchina.com/114.114.114.114
