@@ -96,5 +96,4 @@ server=/pcinlife.com/114.114.114.114
 server=/doubleclick.net/114.114.114.114
 server=/bbstvro.com/114.114.114.114
 server=/btcchina.com/114.114.114.114
-address=/baidu.com/127.0.0.1
-address=/hao123.com/127.0.0.1
+server=/hao123.com/114.114.114.114
